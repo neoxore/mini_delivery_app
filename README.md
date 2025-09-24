@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Mini Delivery App
 
 **Mini Delivery** — a pet project built with **NestJS**, featuring authentication, **Stripe** integration, and **PostgreSQL** + **Redis** support.  
